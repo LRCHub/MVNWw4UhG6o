@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ギミモ",
+  "base_artist": "葛葉",
+  "createdAt": "2026-02-24T11:24:41.127544Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギミモ",
+      "artist": "葛葉",
+      "has_synced": false,
+      "path": "select/pl_01_ギミモ_葛葉.txt"
+    }
+  ]
+}
